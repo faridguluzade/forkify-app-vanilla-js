@@ -4,7 +4,7 @@
 
 <p>👉 Search fucntionality: input field to send request to API with seacrhed keywords</p>
 <p>👉 Display results with pagination</p>
-<p>👉 Display recipe with cooking time, serving and ingredients</p>
+<p>👉 Display recipe with cooking time, servings and ingredients</p>
 <p>👉 Change servings functionality, update all ingredients according to current number of servings</p>
 <p>👉 Bookmarking functionality: Display list of all bookmarked recipes </p>
 <p>👉 User can upload own recipes</p>
